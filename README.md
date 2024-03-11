@@ -1,8 +1,8 @@
-# install 
+## install 
 ```sh
 npm i
 ```
-# start
+## start
 ```sh
 npm start
 ```
